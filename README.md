@@ -2,7 +2,8 @@
 curl --location 'http://localhost:8080/weather/10002'
 
 
-Below is Response
+# Below is Response OutPut
+
 {
     "zipcode": "10002",
     "calculationTime": "2024-03-04T22:31:52",
